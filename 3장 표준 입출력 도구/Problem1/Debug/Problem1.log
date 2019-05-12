@@ -1,0 +1,5 @@
+﻿  Problem1.c
+c:\users\ansru\desktop\dev\c\독하게 시작하는 c프로그래밍\3장 표준 입출력 도구\problem1\problem1.c(11): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\ansru\desktop\dev\c\독하게 시작하는 c프로그래밍\3장 표준 입출력 도구\problem1\problem1.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  Problem1.vcxproj -> C:\Users\ansru\Desktop\Dev\C\독하게 시작하는 C프로그래밍\3장 표준 입출력 도구\Problem1\Debug\Problem1.exe
